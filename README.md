@@ -22,6 +22,7 @@ After spending two weeks trying to find a way to obtain old tweets, I finally go
 * arabic_full_analysis.ipynb: running some NLTK sentiment analysis algorithms on Arabic tweets. 
 * noMLar.ipynb: Classifying Arabic tweets without using ML Algorithms. 
 * noMLfa.ipynb: Classifying Persian tweets without using ML Algorithms.
+* noML_fa_sqlite.ipynb: Same as noMLfa.ipynb but with sqlite3
 * tweets_visualization.ipynb: Visualizing the tweets' sentiments.
 
 ## Data:
